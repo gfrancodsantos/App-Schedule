@@ -1,0 +1,62 @@
+
+* {
+    padding:0;
+    margin:0;
+}
+
+#bar {
+    display: flex;
+    background-color: rgb(255, 238, 238);
+}
+
+#bar h1 {
+    margin-left: 10rem;
+    margin-top: 1.7rem;
+    font-size: 30px;
+    color: red;
+    cursor: pointer;
+}
+
+#bar1 p{
+    margin-top: 2rem;
+    background-color: blue;
+    padding: 5px;
+    padding-left: 11px;
+    padding-right: 11px;
+    border-radius: 4px;
+    color: #fff;
+}
+
+#bar1 {
+    margin-left: 75rem;
+}
+
+
+#bar a {
+    text-decoration: none;
+    
+}
+
+.background{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 7rem;    
+    float: left;
+    margin-left: 20rem;
+
+}
+
+#text {
+    margin-top: 18rem;
+    font-size: 22px;
+    padding-left: 60rem;
+    font-weight: bold;
+}
+
+.copy p {
+    margin-top: 28rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
